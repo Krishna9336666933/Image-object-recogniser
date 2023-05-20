@@ -1,0 +1,78 @@
+body 
+{
+    background-color: orange;
+    font-family: 'Langar', cursive;
+}
+
+.header_div
+{
+    background-color: black;
+    color:red;
+}
+
+.header_div img
+{
+    width:100px;
+}
+
+.main_div
+{
+    background-color: lightskyblue;
+    padding:10px;
+    margin-top:15px;
+    border:3px solid blueviolet;
+}
+
+.main_div label
+{
+    background-color: coral;
+    width: 310px;
+    padding:10px;
+    margin-bottom:0px;
+    box-shadow: 5px 5px 18px firebrick;
+}
+
+#camera,#result
+{
+    border: 2px solid darkgrey;
+    width:310px;
+    height: 300px;   
+    box-shadow: 5px 5px 18px slategray;
+}
+
+.main_div button
+{
+    width:310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px tan;
+}
+
+.footer_div
+{
+    margin-bottom:50px;
+}
+
+.footer_div h4
+{
+    background-color: olive;
+    border-radius:10px;
+    padding:5px;
+    box-shadow:5px 5px 18px hotpink;
+}
+
+.footer_div img 
+{
+    width:70px;
+}
+
+.copy-right-footer
+{
+    position: fixed;
+    color: rosybrown;
+    bottom: 0;
+    width: 100%;
+    background-color: royalblue;
+    line-height: 3;
+    text-align: center;
+}
+
